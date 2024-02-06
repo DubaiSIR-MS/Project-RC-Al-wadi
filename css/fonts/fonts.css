@@ -1,0 +1,100 @@
+@font-face {
+
+    font-family: 'Noto Serif';
+
+    src: local('Noto Serif Light'), local('NotoSerif-Light'),
+
+        url('webfonts/NotoSerif-Light.woff2') format('woff2'),
+
+        url('webfonts/NotoSerif-Light.woff') format('woff');
+
+    font-weight: 300;
+
+    font-style: normal;
+
+    font-display: swap;
+
+}
+
+
+
+@font-face {
+
+    font-family: 'Noto Serif';
+
+    src: local('Noto Serif'), local('NotoSerif'),
+
+        url('webfonts/NotoSerif.woff2') format('woff2'),
+
+        url('webfonts/NotoSerif.woff') format('woff');
+
+    font-weight: normal;
+
+    font-style: normal;
+
+    font-display: swap;
+
+}
+
+@font-face {
+
+    font-family: 'Brother 1816';
+
+    src: local('Brother1816-Bold'),
+
+        url('webfonts/Brother1816-Bold.woff2') format('woff2'),
+
+        url('webfonts/Brother1816-Bold.woff') format('woff');
+
+    font-weight: bold;
+
+    font-style: normal;
+
+    font-display: swap;
+
+}
+
+
+
+@font-face {
+
+    font-family: 'Brother 1816';
+
+    src: local('Brother1816-Regular'),
+
+        url('webfonts/Brother1816-Regular.woff2') format('woff2'),
+
+        url('webfonts/Brother1816-Regular.woff') format('woff');
+
+    font-weight: normal;
+
+    font-style: normal;
+
+    font-display: swap;
+
+}
+
+@font-face {
+
+    font-family: 'Source Sans Pro';
+
+    src: local('Source Sans Pro'), local('SourceSansPro-Regular'),
+
+        url('webfonts/SourceSansPro-Regular.woff2') format('woff2'),
+
+        url('webfonts/SourceSansPro-Regular.woff') format('woff');
+
+    font-weight: normal;
+
+    font-style: normal;
+
+    font-display: swap;
+
+}
+
+
+
+
+
+
+
